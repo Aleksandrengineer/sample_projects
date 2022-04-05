@@ -12,3 +12,7 @@ this is a speific modifier for a specific xls file in order to clean a raw input
 **3. BRICKS game**
 
 this is a bricks game, in order to launch it, open with pycharm file Breakout.py
+
+**4. Pong-13 game**
+
+AI update in main.lua in rows from 240 to 263
