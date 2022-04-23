@@ -1,23 +1,23 @@
 # sample_projects
 This is a couple of sample projects, that i worked on during my employment
 
-**1. sraper**
+**1. sraper** class project
 
 a simple scraper to exract data and store it in sqlite DB
 
-**2. xls modifier**
+**2. xls modifier** personal project
 
 this is a speific modifier for a specific xls file in order to clean a raw input data for production study
 
-**3. BRICKS game**
+**3. BRICKS game** hobby project
 
 this is a bricks game, in order to launch it, open with pycharm file Breakout.py
 
-**4. Pong-13 game**
+**4. Pong-13 game** class project
 
 AI update in main.lua in rows from 240 to 263
 
-**5. Bird-13 game**
+**5. Bird-13 game** class project
 
 --PipePair.lua row 17 and 32 random pipe gap
 
@@ -28,8 +28,8 @@ AI update in main.lua in rows from 240 to 263
 
 -- main.lua row 73 and rows 163-171 is the pause feature code
 
-**6. Breakout-14 game**
-
+**6. Breakout-14 game** class project
+ 
 --Added PowerUps that spawn two additional balls and that ccan be grabed by player
 --Added Shrinking or growing pad
 --Added locked block and a droppable powerup that can unlock it
