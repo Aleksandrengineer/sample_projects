@@ -33,3 +33,11 @@ AI update in main.lua in rows from 240 to 263
 --Added PowerUps that spawn two additional balls and that ccan be grabed by player
 --Added Shrinking or growing pad
 --Added locked block and a droppable powerup that can unlock it
+
+**6. match3-1 game** class project
+
+--Added timer increase with a match
+--new types of tiles spawnes with progression of levels
+--Added shiny tile that with a atches deletes the entire row
+--Added feature that allows to swipe which will lead to the match only
+--Added mouse support in the game
