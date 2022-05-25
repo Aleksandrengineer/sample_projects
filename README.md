@@ -48,6 +48,3 @@ AI update in main.lua in rows from 240 to 263
 
 --Added mouse support in the game
 
-**7. MAGERNAGE unity game** personal project.
-
-In this top-down view you control the MAGE that runs in CARNAGE killing monsters with fireballs. As for gameplay features you can notice: player moving using WASD and looking towards mouse pointer, on left click you fire fireball which creates sound. In case of killing the monster your score increases. When you die you have an option to restart the game
