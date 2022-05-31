@@ -48,3 +48,5 @@ AI update in main.lua in rows from 240 to 263
 
 --Added mouse support in the game
 
+**7. unity packages** personal projects
+-- here you cna find a unity package for my puzzle game are you a medium or not, where you shall predict where the most number of ballls will fall
